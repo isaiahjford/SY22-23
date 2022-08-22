@@ -63,9 +63,9 @@ Partial Class speedForm1
         '
         'bronpicturebox
         '
-        Me.bronpicturebox.Location = New System.Drawing.Point(65, 13)
+        Me.bronpicturebox.Location = New System.Drawing.Point(26, 13)
         Me.bronpicturebox.Name = "bronpicturebox"
-        Me.bronpicturebox.Size = New System.Drawing.Size(249, 186)
+        Me.bronpicturebox.Size = New System.Drawing.Size(316, 244)
         Me.bronpicturebox.TabIndex = 1
         Me.bronpicturebox.TabStop = False
         '
@@ -194,7 +194,7 @@ Partial Class speedForm1
         'PictureBox2
         '
         Me.PictureBox2.Image = Global.WindowsApp1.My.Resources.Resources.download__3_
-        Me.PictureBox2.Location = New System.Drawing.Point(348, 356)
+        Me.PictureBox2.Location = New System.Drawing.Point(351, 356)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(129, 74)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -226,7 +226,7 @@ Partial Class speedForm1
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(75, 23)
         Me.Button4.TabIndex = 18
-        Me.Button4.Text = "GIannis"
+        Me.Button4.Text = "Giannis"
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Button5
@@ -252,7 +252,7 @@ Partial Class speedForm1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(832, 450)
+        Me.ClientSize = New System.Drawing.Size(936, 491)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.PictureBox3)
@@ -276,7 +276,7 @@ Partial Class speedForm1
         Me.Controls.Add(Me.bronpicturebox)
         Me.Controls.Add(Me.Button1)
         Me.Name = "speedForm1"
-        Me.Text = "NBA-Dex"
+        Me.Text = "Hooping-Dex"
         CType(Me.bronpicturebox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
