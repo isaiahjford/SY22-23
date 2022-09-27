@@ -1,0 +1,19 @@
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\bin\Debug\Dollar Tree.exe.config
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\bin\Debug\Dollar Tree.exe
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\bin\Debug\Dollar Tree.pdb
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\bin\Debug\Dollar Tree.xml
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.vbproj.AssemblyReference.cache
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form1.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form2.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form3.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form4.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form5.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form6.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Form7.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar_Tree.Resources.resources
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.vbproj.GenerateResource.cache
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.vbproj.CoreCompileInputs.cache
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.exe
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.xml
+C:\Users\ijfor984\Documents\SY22-23\VB\Dollar Tree\Dollar Tree\obj\Debug\Dollar Tree.pdb
